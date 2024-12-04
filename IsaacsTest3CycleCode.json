@@ -1,0 +1,21 @@
+[
+    {
+        "Recipient": "O",
+        "Donor": [
+            "A"
+        ]
+    },
+    {
+        "Recipient": "A",
+        "Donor": [
+            "B"
+            
+        ]
+    },
+    {
+        "Recipient": "B",
+        "Donor": [
+            "O"
+        ]
+    }
+]    
